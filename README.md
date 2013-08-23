@@ -40,7 +40,7 @@ Incase input is invalid the text box border turns red.
 ##Submitting your Assignment
 After completing your assignment please zip it and mail it to codejam@neevtech.com
 Make sure the subject line reads " Assignment from {your name}"
-In the Body mention the following:
+In the Body mention the following:  
 Name :  
 Phone:  
-Comments:{Feel free to write your thoughts and any clarifications you'd like to make about your assignment}
+Comments: {Feel free to write your thoughts and any clarifications you'd like to make about your assignment}
