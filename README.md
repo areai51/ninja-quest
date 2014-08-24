@@ -21,7 +21,8 @@ User the json/user.json file to load the data, donot hard code the data in HTML.
 You have about 2 hours to complete it, its possible that you might not be able to complete the full assignment so prioritize, Here are the priorities.
 
 ###Task Priorities
-** Make sure you complete all the JavaScript tasks first **
+ **Make sure you complete all the JavaScript tasks first**
+
 1. Clicking on a thumbnail slides the side panel into view. The side panel will display the image and the title of the selected thumbnail. (Use jQuery or JavaScript to dynamically get the image and title of the clicked thumbnail).
 
 1. The logo and Navigation Bar stay fixed on the top even if the page is scrolled.
